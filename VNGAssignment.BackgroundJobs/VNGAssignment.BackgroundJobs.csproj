@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-VNGAssignment.BackgroundJobs-35b6ae1a-66f5-4c26-b893-a6bd95d7c3b0</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="4.7.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VNGAssignment.Business\VNGAssignment.Business.csproj" />
+    <ProjectReference Include="..\VNGAssignment.DataAccessor\VNGAssignment.DataAccessor.csproj" />
+  </ItemGroup>
+</Project>

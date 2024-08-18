@@ -1,0 +1,12 @@
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\bin\Debug\net8.0\VNGAssignment.DataAccessor.deps.json
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\bin\Debug\net8.0\VNGAssignment.DataAccessor.dll
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\bin\Debug\net8.0\VNGAssignment.DataAccessor.pdb
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\obj\Debug\net8.0\VNGAssignment.DataAccessor.csproj.AssemblyReference.cache
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\obj\Debug\net8.0\VNGAssignment.DataAccessor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\obj\Debug\net8.0\VNGAssignment.DataAccessor.AssemblyInfoInputs.cache
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\obj\Debug\net8.0\VNGAssignment.DataAccessor.AssemblyInfo.cs
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\obj\Debug\net8.0\VNGAssignment.DataAccessor.csproj.CoreCompileInputs.cache
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\obj\Debug\net8.0\VNGAssignment.DataAccessor.dll
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\obj\Debug\net8.0\refint\VNGAssignment.DataAccessor.dll
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\obj\Debug\net8.0\VNGAssignment.DataAccessor.pdb
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.DataAccessor\obj\Debug\net8.0\ref\VNGAssignment.DataAccessor.dll

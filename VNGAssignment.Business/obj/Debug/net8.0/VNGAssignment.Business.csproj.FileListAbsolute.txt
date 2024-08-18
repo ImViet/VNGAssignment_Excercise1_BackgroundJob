@@ -1,0 +1,15 @@
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\bin\Debug\net8.0\VNGAssignment.Business.deps.json
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\bin\Debug\net8.0\VNGAssignment.Business.dll
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\bin\Debug\net8.0\VNGAssignment.Business.pdb
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\bin\Debug\net8.0\VNGAssignment.DataAccessor.dll
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\bin\Debug\net8.0\VNGAssignment.DataAccessor.pdb
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\obj\Debug\net8.0\VNGAssignment.Business.csproj.AssemblyReference.cache
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\obj\Debug\net8.0\VNGAssignment.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\obj\Debug\net8.0\VNGAssignment.Business.AssemblyInfoInputs.cache
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\obj\Debug\net8.0\VNGAssignment.Business.AssemblyInfo.cs
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\obj\Debug\net8.0\VNGAssignment.Business.csproj.CoreCompileInputs.cache
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\obj\Debug\net8.0\VNGAssig.83B22764.Up2Date
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\obj\Debug\net8.0\VNGAssignment.Business.dll
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\obj\Debug\net8.0\refint\VNGAssignment.Business.dll
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\obj\Debug\net8.0\VNGAssignment.Business.pdb
+E:\Workspace\Practice\VNG\VNGAssignment_BackgroundJob_DinhQuocViet\VNGAssignment.Business\obj\Debug\net8.0\ref\VNGAssignment.Business.dll
